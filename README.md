@@ -1,3 +1,3 @@
-# ArdunioUNO-3-SSD1306
+# ArdunioUNO3+SSD1306、2倍角「あ、埼玉」と表示して遊ぶ。(教育漢字)
 
 美咲フォント
